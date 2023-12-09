@@ -1,6 +1,6 @@
 # NuKenzie
 
-![Home NuKenzie](front-example.jpg)
+![Home NuKenzie](front_example.jpg)
 
 ## Descrição
 Este aplicativo em React permite aos usuários registrar suas despesas e receitas. Com uma interface amigável, os usuários podem cadastrar valores de entrada e saída, e o aplicativo realiza automaticamente o cálculo do valor total disponível. Todos os dados são armazenados localmente no localStorage do navegador, garantindo a persistência das informações.
